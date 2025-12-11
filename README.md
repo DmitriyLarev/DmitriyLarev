@@ -3,7 +3,9 @@
   <h3>Python Developer</h3>
 </div>
 <div id="socials" align="center">
-    <a href="linkedin-url"></a>
+    <a href="linkedin-url">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
   <a href="twitter-url">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>

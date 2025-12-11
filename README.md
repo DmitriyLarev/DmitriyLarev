@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-<img src="https://github.com/DmitriyLarev/DmitriyLarev/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 <img src="https://github.com/DmitriyLarev/DmitriyLarev/blob/main/mario.gif" alt="The unlimited">
 
 <div id="stat" align="center">

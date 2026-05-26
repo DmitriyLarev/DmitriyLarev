@@ -18,16 +18,16 @@ But then I fell in love with Python — and I've been learning it for the last 6
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/dmitiylarev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/dmitriylarev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dmitiylarev"><img src="https://github-readme-stats.vercel.app/api?username=dmitiylarev&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dmitiylarev's GitHub stats" /></a>
+<a href="http://www.github.com/dmitriylarev"><img src="https://github-readme-stats.vercel.app/api?username=dmitriylarev&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dmitriylarev's GitHub stats" /></a>
 
-<a href="http://www.github.com/dmitiylarev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dmitiylarev&stroke=ffffff&background=1c1917&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/dmitriylarev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dmitriylarev&stroke=ffffff&background=1c1917&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/dmitiylarev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitiylarev&langs_count=10&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/dmitriylarev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriylarev&langs_count=10&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitriyLarev&theme=github_dark" alt=""/>

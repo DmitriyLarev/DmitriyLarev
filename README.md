@@ -19,5 +19,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitriyLarev&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyLarev&theme=github_dark" alt=""/>
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitriylarev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
